@@ -1,11 +1,14 @@
 # Fast Machine Learning Lab "Brain" Logo
 
+
+PNG: ![PNG image of the FastMachineLearning Lab "brain" logo](./fm_logo_yellow.png)
+SVG: ![SVG image of the FastMachineLearning Lab "brain" logo](./fm_logo_yellow.svg) 
+
 This directory contains the FastML "Brain" Logo in multiple formats - png (1024px, 2048px and 4096px height), svg, and PDF. 
 The .svg file is also an [Inkscape](https://inkscape.org/) format project file, containing grouped layers for each major portion of the "brain" to enable easy editing.
 If you require a different size than one that's provided here, you are encouraged to open the svg file in inkscape and export a new PNG at your desired size. 
 
 NOTE: the "event display" image that is at the center of the "brain" logo, as it stands, has a native DPI of 72. The default png provided (fm_logo_yellow.png) is exported to be very close to this DPI (~70.6 DPI), and as such, you might experience a slightly pixelated event display image when using the higher resolution "brain" logos.   
-
 
 ## Sources
 
